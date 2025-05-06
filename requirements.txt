@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+joblib
+python-dotenv          # loads OPENAI_API_KEY from .env
+openai                 # or 'huggingface_hub' if you prefer
+tqdm
